@@ -1,4 +1,4 @@
 # FristJavaProyects2018
-Primer proyecto realizadoz con Java
+Primeros proyectos realizados con Java
 <br>
 First projects using Java.
